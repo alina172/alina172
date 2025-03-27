@@ -1,0 +1,72 @@
+.grey{
+width: 30px;
+padding: 20px;
+margin: 10px;
+border: 0cap;
+background-color: lightgrey;
+}
+
+.bigone{
+width: 40px;
+padding: 20px;
+margin: 10px;
+border: 0cap;
+background-color: lightgrey;
+}
+
+.orange{
+color: green;    
+width: 30px;
+padding: 20px;
+text-align: center;
+margin: 10px;
+border: 1px solid black;
+background-color: rgb(245, 173, 40);
+font-weight: bolder;
+}
+
+.pink{
+width: 30px;
+padding: 20px;
+text-align: center;
+margin: 10px;
+border: 1px solid black;
+background-color: rgb(209, 136, 238);
+font-weight: bolder;
+}
+
+.blue{
+ width: 30px;
+ padding: 20px;
+ text-align: center;
+ margin: 10px;
+ border: 1px solid black;
+ background-color:rgb(128, 190, 241);
+ font-weight: bolder;
+}
+
+.sun{  
+ max-height: 35px;   
+ width: 30px;
+ padding: 20px;
+ text-align: center;
+ 
+ border: 1px solid black;
+ background-color:rgb(239, 241, 128);
+ font-weight: bolder;
+}
+
+a{
+color: black;
+text-decoration: none;
+}
+
+span{
+    color: green;
+}
+
+td:hover{
+background-color: rgb(96, 243, 52);
+cursor: pointer;
+}
+
