@@ -1,0 +1,176 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(16, 16, 117);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
+
+nav {
+    display: flex;
+
+}
+
+.logo img {
+    width: 70px;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.menu-item img {
+    width: 25px;
+}
+
+.menu-item span {
+    text-transform: uppercase;
+    margin-left: 4px;
+}
+
+.active{
+    color: #57be8e;
+    background-color: white;
+    padding: 4px 14px 4px 14px;
+    border-radius: 5px;
+}
+
+.profile{
+    display: flex;
+    margin-right: 0;
+}
+
+.credits img{
+    width: 25px;
+}
+
+.credits{
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.user img:first-child{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+.user img:nth-child(2){
+    width: 25px;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.progress-bar {
+    display: flex;
+    background-color: #7dd9d9;
+    width: 200px;
+    border-radius: 7px;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.progress-bar span {
+    width: 100%;
+    text-align: center;
+}
+
+.progress {
+    background-color: #2995b5;
+    width: 3%;
+    height: 100%;
+    border-radius: 7px 0 0 7px;
+}
+
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    background-color: #f7f5f5;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.left{
+    margin-right: 30px;
+    font-family: monospace;
+}
+
+table{
+    width: 630px;
+    height: 180px;
+    background-color: white;
+    box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #0000001f;
+    text-align: left;
+    border-spacing:0;
+}
+
+th, td{
+    border-bottom: 1px solid #ddd;
+    padding: 12px;
+   
+}
+
+th{
+    color: #b5b5b5;
+    font-size: small;
+}
+
+th img{
+    width: 20px;
+}
+
+.arrow{
+    display: flex;
+    align-items: center;
+}
+
+.button{
+    background-color: #57be8e;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-family: monospace;
+    padding: 7px;
+}
+
+
+.right{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 3px 1px -2px #0003, 0 2px 2px #00000024, 0 1px 5px #0000001f;
+    font-family: monospace;
+}
+
+.right p{
+    width: 210px;
+}
+
+.right img{
+    width: 200px;
+}
+
+
+
+
+
