@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Alina. I'm a student at IСT college. I study software development in the Front-end direction.
+I'm Alina. I'm a student at IСT college. I study software development in the Front-end direction.<br>
 I'm currently working on my own portfolio in HTML and CSS.<br>I have learned HTML, CSS, JavaScript, a little bit of PHP and also a framework - Bootstrap.<br>I'm looking to collaborate with companies that work on creating websites and applications and I'm currently looking for an internship to improve my knowledge.
 
 # 📊 GitHub Stats:
