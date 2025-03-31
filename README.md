@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on my own portfolio in HTML and CSS.<br>I have learned HTML, CSS, JavaScript, a little bit of PHP and also a framework - Bootstrap.<br>I'm looking to collaborate with companies that work on creating websites and applications.<br>I'm currently looking for an internship to improve my knowledge.
+I'm Alina. I'm a student at IСT college. I study software development in the Front-end direction.
+I'm currently working on my own portfolio in HTML and CSS.<br>I have learned HTML, CSS, JavaScript, a little bit of PHP and also a framework - Bootstrap.<br>I'm looking to collaborate with companies that work on creating websites and applications and I'm currently looking for an internship to improve my knowledge.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alina172&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
